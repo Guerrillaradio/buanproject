@@ -36,3 +36,5 @@ el capital, la propiedad privada y la necesidad de hacer una pausa
 proyecto colaborativo transnacional
 
 
+más información en el archivo Invitacion 
+
