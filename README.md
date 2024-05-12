@@ -29,7 +29,7 @@ proyecto itinerante, que busca a través de la acción directa, gatillar concien
 
 Posicionamos un container (icono del avance en el comercio marítimo internacional) de forma vertical, acentuando el espacio libre sobre nuestras cabezas, este espacio, personalmente experimentado, impulsa la creatividad y además, acentúa el espacio en superficie, necesario para ser, estar, parecer. Este container podría ser revestido exteriormente con láminas de vidrio con filtro ultravioleta o, solo ser pintado negro, así mantener a la vista su esencia. Una de sus caras corresponde al acceso, la que usa toda la superficie en su sección como tal (acceso). Se invitará a una persona a buan este artefacto, por un tiempo de 12 horas, invitando en primera instancia a la pausa (enemigo público número uno del capital).
 -------
-Referencia Martin Heidegger "construir, habitar, pensar"
+Referencia: Martin Heidegger "construir, habitar, pensar"
 
 el capital, la propiedad privada y la necesidad de hacer una pausa
 -------
