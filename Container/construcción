@@ -1,9 +1,14 @@
 Proyecto de construcción
-la construcción debe considerar según proyecto de arquitectura y cálculo los desafíos pertinentes
-instalación en una jornada
-usar motorhome como instalación de faenas
-control de residuos, control de ruido
-menor impacto tanto en instalación como en desinstalacion
-visita a terreno, calculo de la ruta
-evaluación de las condiciones ambientales 
-medidas de seguridad
+
+NOTAS:
+. la construcción debe considerar según proyecto de arquitectura y cálculo los desafíos pertinentes
+. instalación en una jornada
+. usar motorhome como instalación de faenas
+. control de residuos, control de ruido
+. menor impacto tanto en instalación como en desinstalacion
+. visita a terreno, calculo de la ruta
+. evaluación de las condiciones ambientales 
+. medidas de seguridad
+
+Generalidades, en esta carpeta se consideran las variables para el proceso de construcción, instalación y desinstalación del artefacto
+Especificaciones técnicas, carta gantt, planos
