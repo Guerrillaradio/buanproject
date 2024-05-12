@@ -34,9 +34,13 @@ Referencia: Martin Heidegger "construir, habitar, pensar"
 el capital, la propiedad privada y la necesidad de hacer una pausa
 -------
 proyecto colaborativo transnacional
+
 proyecto de codigo abierto
+
 invitación abierta a participar,colaborar, copiar, remixear
+
 invitacion libre de fronteras e idiomas
+
 todos los oficios estan invitados y los profesionales también
 -------
 
