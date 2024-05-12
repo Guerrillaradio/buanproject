@@ -27,13 +27,17 @@ proyecto itinerante, que busca a través de la acción directa, gatillar concien
 
 -------
 
-Posicionamos un container (el cual representa en sí mismo un icono del avance en el comercio marítimo internacional) de forma vertical, así se acentúa el espacio libre sobre nuestras cabezas, lo que empiricamente comprobado ayuda a la creatividad y por otro lado, acentúa el espacio en la superficie necesario para estar, permanecer, ser. Este container es revestido exteriormente con láminas de vidrio con filtro ultravioleta. Una de sus caras corresponde al acceso, la que usa toda la cara en su sección como tal, de frente se verá como imitando una cabeza. Se invitara a una persona a hacer uso de la plataforma. El cuadro completo, da la impresión de ser una cabeza con la voz de la conciencia por dentro. El uso es libre, se realizan tomas exteriores no invasivas, y grabación de audio
+Posicionamos un container (icono del avance en el comercio marítimo internacional) de forma vertical, acentuando el espacio libre sobre nuestras cabezas, este espacio, personalmente experimentado impulsa la creatividad y además, acentúa el espacio en superficie necesario para ser, estar, parecer. Este container podría ser revestido exteriormente con láminas de vidrio con filtro ultravioleta, o solo ser pintado negro, así mantener a la vista su esencia. Una de sus caras corresponde al acceso, la que usa toda la superficie en su sección como tal (acceso). Se invitará a una persona a buan este artefacto, por un tiempo de 12 horas, invitando en primera instancia a la pausa (enemigo público número uno del capital).
 -------
 Referencia Martin Heidegger "construir, habitar, pensar"
 
 el capital, la propiedad privada y la necesidad de hacer una pausa
 -------
 proyecto colaborativo transnacional
-
+proyecto de codigo abierto
+invitación abierta a participar,colaborar, copiar, remixear
+invitacion libre de fronteras e idiomas
+todos los oficios estan invitados y los profesionales también
+-------
 
 más información en el archivo Invitacion Buan
