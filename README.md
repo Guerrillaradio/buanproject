@@ -41,7 +41,7 @@ invitación abierta a versionar, aprender, experimentar, contribuir, informarte,
 
 Invitación libre de fronteras e idiomas
 
-todos los oficios están invitados y los profesionales también
+todos los oficios y profesiones invitadxs
 -------
 
 más información en el archivo Invitación Buan
