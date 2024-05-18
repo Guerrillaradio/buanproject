@@ -27,7 +27,7 @@ proyecto itinerante, que busca, a través de la acción directa, gatillar concie
 
 -------
 
-Posicionamos un container (icono del avance en el comercio marítimo internacional) de forma vertical, acentuando el espacio libre sobre nuestras cabezas, incentivando la sensación de libertad espacial y además acentúa el espacio en la superficie, necesario para ser, estar, parecer. Este container será pintado por su exterior de color negro y mantener a la vista su esencia. Una de sus caras corresponde al acceso, la que usa toda la superficie en su sección como tal (acceso). Se invitará a una persona a buan este artefacto, por un tiempo de 12 horas, invitando en primera instancia a la pausa (enemigo público número uno del capital).
+Posicionamos un container (icono del avance en el comercio marítimo internacional) de forma vertical, acentuando el espacio libre sobre nuestras cabezas, incentivando la sensación de libertad y además acentúa el espacio en la superficie, necesario para ser, estar, parecer. Este container será pintado por su exterior de color negro para mantener a la vista su esencia. Una de sus caras corresponde al acceso, la que usa toda la superficie en su sección como tal (acceso). Se invitará a una persona a buan este artefacto, por un tiempo de 12 horas, invitando en primera instancia a la pausa (enemigo público número uno del capital).
 -------
 Referencia: Martin Heidegger "construir, habitar, pensar"
 
